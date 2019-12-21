@@ -15,3 +15,10 @@ p {
     font-family : 'Times New Roman';
     color: black;
 }
+
+.Topics {
+    text-transform: cursive;
+    font-size: 30px;
+    font-family: 'Times New Roman';
+    color: goldenrod;
+}
