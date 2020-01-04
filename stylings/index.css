@@ -1,4 +1,4 @@
-.maintitle {
+title {
     font-size: 70px;
     font-family: 'Times New Roman';
     color: black;
@@ -12,10 +12,11 @@ p {
     text-align: center;
 }
 
-.time {
-    font-size: 40px;
+p1 {
+    font-size: 20px;
     font-family : 'Times New Roman';
     color: black;
+    text-align: left;
 }
 
 .Topics {
