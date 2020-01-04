@@ -1,7 +1,7 @@
 .maintitle {
     font-size: 40px;
     font-family: 'Times New Roman';
-    color: teal;
+    color: black;
 }
 
 p {
@@ -20,7 +20,7 @@ p {
     text-transform: cursive;
     font-size: 30px;
     font-family: 'Times New Roman';
-    color: goldenrod;
+    color: black;
     background: gray;
     padding: 10px;
 }
