@@ -22,3 +22,8 @@ p {
     font-family: 'Times New Roman';
     color: goldenrod;
 }
+
+body {
+    background-color: black;
+    text-align: center;
+}
