@@ -9,6 +9,10 @@ li {
     padding: 0px 10px 0px 10px;
 }
 
+ol {
+    background: black;
+}
+
 p {
     font-size: 20px;
     font-family: 'Times New Roman';
