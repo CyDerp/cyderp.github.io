@@ -4,6 +4,11 @@ title {
     color: black;
 }
 
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+
 p {
     font-size: 20px;
     font-family: 'Times New Roman';
@@ -19,14 +24,6 @@ p1 {
     text-align: left;
 }
 
-.Topics {
-    text-transform: cursive;
-    font-size: 30px;
-    font-family: 'Times New Roman';
-    color: black;
-    padding: 10px;
-}
-
 body {
     background-image: url(imagescss/background1.1.jpg);
     text-align: center;
@@ -39,7 +36,3 @@ img {
     border-radius: 10px;
 }
 
-li {
-    display: inline;
-    padding: 0px 10px 0px 10px;
-}
