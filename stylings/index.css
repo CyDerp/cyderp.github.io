@@ -21,6 +21,8 @@ p {
     font-size: 30px;
     font-family: 'Times New Roman';
     color: goldenrod;
+    background: gray;
+    padding: 10px;
 }
 
 body {
@@ -28,3 +30,10 @@ body {
     text-align: center;
     padding: 20px 5px 20px 5px;
 }
+
+img {
+    margin: 30px 0px 0px 0px;
+    border: 4px grey;
+    border-radius: 10px;
+}
+
