@@ -40,6 +40,8 @@ p1 {
 body {
     background-image: url(imagescss/background1.3.jpg);
     background-size: cover;
+    max-width: 1920px;
+    max-height: 1080px;
     text-align: center;
     padding: 20px 5px 20px 5px;
     font-family : monospace;
