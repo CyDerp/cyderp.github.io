@@ -11,7 +11,7 @@ header {
 
 header2 {
     text-align: center;
-    color: white;
+    color: black;
     padding: 15px;
     font-size: 30px;
 }
@@ -22,7 +22,7 @@ li {
 
 ol {
     padding: 10px;
-    background: gray;
+    background: white;
 }
 
 
