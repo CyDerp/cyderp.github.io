@@ -14,7 +14,9 @@ header2 {
     color: black;
     padding: 15px;
     font-size: 30px;
-    border: 2px solid black;
+    border-style: solid;
+    border-color: black;
+    border-width: 4px;
 }
 li {
     display: inline;
