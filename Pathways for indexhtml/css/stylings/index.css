@@ -1,0 +1,63 @@
+title {
+    font-size: 70px;
+    font-family: monospace;
+}
+
+header {
+    font-size: 60px;
+    color: whitesmoke;
+    text-shadow: 2px 2px black;
+}
+
+header2 {
+    text-align: center;
+    color: black;
+    padding: 15px;
+    font-size: 30px;
+    text-shadow: 2px 2px gray;
+}
+
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+
+ol {
+    padding: 10px;
+    border-style: solid;
+    border-color: gray;
+    border-width: 4px;
+    background: rgba(128,128,128,0.5);
+}
+
+
+p1 {
+    font-size: 20px;
+    font-family : monospace;
+    color: black;
+    text-align: left !important;
+}
+
+body {
+    background-image: url(imagescss/background1.5.png);
+    background-size: cover;
+    max-width: 1920px;
+    max-height: 1080px;
+    text-align: center;
+    padding: 20px 5px 20px 5px;
+    font-family : monospace;
+}
+
+@media (max-width: 500px) {
+    li {
+        display: block;
+        padding: 5px;
+    }
+}
+
+img {
+    margin: 15px 0px 15px 0px;
+    border: 6px solid white;
+    border-radius: 10px;
+}
+
