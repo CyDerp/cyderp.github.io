@@ -1,0 +1,9 @@
+body {
+    background-image: url(imagescss/parking\ pass.jpg.jpg);
+    background-size: cover;
+    max-width: 1920px;
+    max-height: 1080px;
+    text-align: center;
+    padding: 20px 5px 20px 5px;
+    font-family : monospace;
+}
