@@ -5,6 +5,7 @@ body {
     background-size: cover;
     max-width: 1920px;
     max-height: 1080px;
-    color: white;
+    color: whitesmoke;
     text-shadow: 2px 2px black;
+    font-size: 30px;
 }
