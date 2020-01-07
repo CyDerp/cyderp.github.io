@@ -56,10 +56,10 @@ body {
 }
 
 img {
-    margin: 15px 0px 15px 0px;
+    margin: auto;
     border: 6px solid white;
     border-radius: 10px;
-    left: 5px;
+    float: left;
     position: relative;
 }
 
