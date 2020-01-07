@@ -3,12 +3,6 @@ title {
     font-family: monospace;
 }
 
-header {
-    font-size: 60px;
-    color: whitesmoke;
-    text-shadow: 2px 2px black;
-}
-
 header2 {
     text-align: center;
     color: black;
@@ -28,14 +22,6 @@ ol {
     border-color: gray;
     border-width: 4px;
     background: rgba(128,128,128,0.5);
-}
-
-
-p1 {
-    font-size: 20px;
-    font-family : monospace;
-    color: black;
-    text-align: left !important;
 }
 
 body {
