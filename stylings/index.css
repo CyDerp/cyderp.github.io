@@ -7,7 +7,7 @@ header2 {
     text-align: center;
     color: black;
     padding: 15px;
-    font-size: 10px;
+    font-size: 15px;
     text-shadow: 2px 2px gray;
 }
 
@@ -20,7 +20,6 @@ ol {
     padding: 8px 4px 8px 4px;
     position: relative;
     margin-top: 150px;
-    margin-left: 75px;
 }
 
 body {
@@ -46,7 +45,7 @@ img {
     border-radius: 10px;
     float: left;
     position: relative;
-    margin-top: 100px;
-    margin-left: 50px;
+    margin-top: 200px;
+    margin-left: 150px;
 }
 
