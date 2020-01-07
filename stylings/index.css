@@ -23,6 +23,7 @@ ol {
     border-width: 4px;
     background: rgba(128,128,128,0.5);
     position: relative;
+    top: 20px;
 }
 
 body {
