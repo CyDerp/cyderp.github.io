@@ -13,7 +13,7 @@ header2 {
     text-align: center;
     color: black;
     padding: 15px;
-    font-size: 30px 25px;
+    font-size: 28px;
     text-shadow: 2px 2px gray;
 }
 
@@ -58,6 +58,6 @@ body {
 img {
     margin: 15px 0px 15px 0px;
     border: 6px solid white;
-
+    left: 20px;
 }
 
