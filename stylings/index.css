@@ -59,5 +59,6 @@ img {
     margin: 15px 0px 15px 0px;
     border: 6px solid white;
     left: 20px;
+    position: relative;
 }
 
