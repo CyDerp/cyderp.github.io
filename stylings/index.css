@@ -59,6 +59,6 @@ img {
     margin: 15px 0px 15px 0px;
     border: 6px solid white;
     border-radius: 10px;
-    text-align: left;
+    float: left;
 }
 
