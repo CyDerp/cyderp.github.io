@@ -1,5 +1,4 @@
 body {
     background-image: url(imagescss/germany.jpg);
-    background-size: cover;
-    height: 650;
+    background-size: contain;
 }
