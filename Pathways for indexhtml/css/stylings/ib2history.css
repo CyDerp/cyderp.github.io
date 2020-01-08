@@ -1,3 +1,6 @@
 body {
     background-image: url(imagescss/germany.jpg);
+    background-size: cover;
+    width: 1300px;
+    height: 731px;
 }
