@@ -1,5 +1,5 @@
 body {
     background-image: url(imagescss/germany.jpg);
-    background-repeat: 0;
     background-size: cover;
+    margin-bottom: 500px;
 }
