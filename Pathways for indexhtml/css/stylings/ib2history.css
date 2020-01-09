@@ -1,0 +1,7 @@
+body {
+    background-image: url(imagescss/Untitled.jpg);
+    background-image: cover;
+    text-align: center;
+    font-size: 70px;
+    font-family: monospace;
+  }

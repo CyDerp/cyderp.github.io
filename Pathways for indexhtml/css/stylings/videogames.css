@@ -9,3 +9,23 @@ body {
     text-shadow: 2px 2px black;
     font-size: 30px;
 }
+
+p1 {
+    margin-right: 800px;
+    margin-top: 500px;
+}
+
+p2 {
+    margin-top: 700px;
+    margin-right: 800px;
+}
+
+p3 {
+    margin-top: 900px;
+    margin-left: 1100px;
+}
+
+p4 {
+    margin-top: 300px;
+    margin-left: 500px;
+}

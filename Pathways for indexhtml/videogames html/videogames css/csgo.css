@@ -1,0 +1,9 @@
+body {
+    background-image: url(videogameimages/csgobackground.jpeg);
+    font-family: monospace;
+    font-size: 40px;
+    color: whitesmoke;
+    text-align: center;
+    text-shadow: 2px 2px black;
+    padding: 0px 100px 0px 100px;
+}
