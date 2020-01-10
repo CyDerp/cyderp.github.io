@@ -1,0 +1,38 @@
+body {
+    font-family: 'Lato';
+    background-color: black;
+}
+
+.Information-on-Product {
+    font-size: 24px;
+    text-align: center;
+    color: #002233;
+}
+
+.Description-of-Product {
+    font-size: 24px;
+    text-align: center;
+    color: #002233;
+}
+
+img {
+    
+}
+
+header {
+    font-size: 30px;
+    text-align: center;
+    color: #002233;
+}
+
+.Disclaimer {
+    font-size: 7px;
+    text-align: left;
+    color: #0d0d0d;
+
+}
+
+.Disclaimer h1 {
+    font-size: 5px;
+    text-decoration: underline;
+}
