@@ -64,9 +64,9 @@ nav1 {
     z-index: -1;
 }
 
-.vertical-name {
+.sideway-name {
     writing-mode: vertical-lr;
-    text-orientation: sideways;
+    text-orientation: upright;
     letter-spacing: 10px;
     text-shadow: 0px 0px 25px white;
     font-family: 'Lato';
