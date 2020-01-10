@@ -46,8 +46,7 @@ nav1 {
 
 .vertical-text {
     writing-mode: vertical-rl;
-    text-orientation: ;
-    text-shadow: 0px 0px 25px #ffbf00;
+    text-orientation: sideways;
     text-shadow: 0px 0px 25px white;
     font-family: 'Lato';
     font-size: 30px;
