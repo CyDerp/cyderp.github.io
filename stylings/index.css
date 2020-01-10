@@ -83,10 +83,10 @@ nav1 {
 p {
     text-align: center;
     position: relative;
-    -webkit-text-stroke: 0.1px white;
+    -webkit-text-stroke: 1px white;
     color: black;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 20px;
     top: 335px;
     font-stretch: narrower;
     display: block;
